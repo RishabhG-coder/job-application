@@ -2,9 +2,6 @@
 
 A clean and modern **job application form** with **real-time validation**, **dark/light theme**, and **autosave drafts**, built using **HTML, CSS, and Vanilla JavaScript**.
 
-## 🌌 Demo  
-🔗 [Live Preview](https://rishabhg-coder.github.io/job-application/)
-
 ---
 
 ## ✨ Key Features
@@ -26,6 +23,11 @@ A clean and modern **job application form** with **real-time validation**, **dar
 * JavaScript (Vanilla)
 * LocalStorage API
 * Formspree (form submission)
+
+---
+
+# 🌌 Demo  
+🔗 [Live Preview](https://rishabhg-coder.github.io/job-application/)
 
 ---
 
